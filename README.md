@@ -26,8 +26,7 @@ Implementation-of-ML-model-for-image-classification is a Streamlit app that inte
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/JayRathod341997/DeepLensX.git
-   cd Implementation-of-ML-model-for-image-classification
+https://github.com/sanika634/sanika634.git
 2. **Create and activate a virtual environment**:
     ```bash
     python -m venv venv
