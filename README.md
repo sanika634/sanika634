@@ -5,7 +5,7 @@ software engineer
 -----------------
 
 * 🌍  I'm based in Maharastra, India
-* 🖥️  See my portfolio at [my website](https://portfolio-coral-one-16.vercel.app/)
+* 🖥️   <a href="C:\Users\HP\OneDrive\Desktop\sanikahtml\portfolio\index.html">  See my portfolio</a>
 * ✉️  You can contact me at 
 * 🧠  I'm learning REST APIs, Python and C#
 
