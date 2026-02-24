@@ -5,7 +5,7 @@ software engineer
 -----------------
 
 * 🌍  I'm based in Maharastra, India
-* 🖥️   <a href="C:\Users\HP\OneDrive\Desktop\sanikahtml\portfolio\index.html">  See my portfolio</a>
+* 🖥️   <a href="C:/Users/HP/OneDrive/Desktop/sanikahtml/portfolio/index.html">  See my portfolio</a>
 * ✉️  You can contact me at 
 * 🧠  I'm learning REST APIs, Python and C#
 
